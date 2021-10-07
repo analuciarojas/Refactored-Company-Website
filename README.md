@@ -3,12 +3,13 @@
 ## Table of Contents
 
 * [Objectives](#objectives)
-* [Modifications](#modifications)
-* [Technologies](#technologies & assets)
+* [Description](#description)
+* [Technologies](#technologies)
 * [Preview](#preview)
 * [Author](#author)
+* [License](#license)
 
-## Project objectives 
+## Description
 
 ## Modifications
 
@@ -17,5 +18,9 @@
 
 ## Preview
 
+![Horiseon Website](assets/images/preview.png)
+
 ## Author
+
+## License
 
